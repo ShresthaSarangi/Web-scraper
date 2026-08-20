@@ -19,6 +19,14 @@ A simple web-based site scraper built with **Django**. It allows users to scrape
 * BeautifulSoup
 * Requests
 
+## 📸 Screenshots
+
+### Home Page
+
+<img width="1897" height="921" alt="scraper png" src="https://github.com/user-attachments/assets/9512e138-5ea3-44c1-857e-536bf50c0a07" />
+
+
+
 ## Installation
 
 Clone the repository:
